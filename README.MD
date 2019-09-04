@@ -1,11 +1,10 @@
 <p align="center"><img src="./logo.jpg" width="150px" ></img></p>
-<h1 align="center">Naia</h1>
 <p align="center">
     <img src="https://img.shields.io/packagist/l/doctrine/orm.svg?style=flat-square" />
   </p>
  <p align="center">
 Now.sh, Atlas, Imgur, Auth0 ▲🌿🖼️ 👮‍♂️ <br>
-All setup in one express server ready for development. All the server are setup with a free tier so you can build and scale as you go and only what you need
+All setup in one express server ready for development. All the service offer a free tier so you can build and scale as you go and only what you need
 </p>
 
 ## Now.sh
