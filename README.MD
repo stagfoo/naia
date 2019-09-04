@@ -12,6 +12,8 @@ this is a free lamda hosting server, configurable with the now.json file.
 Read more in the wiki.
 
 `now.sh will require your env setup in now.json`
+`local will require your env setup in .env`
+
 
 ## Atlas
 this is a free mongo database hosting server.
