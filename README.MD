@@ -4,7 +4,7 @@
   </p>
  <p align="center">
 Now.sh, Atlas, Imgur, Auth0 ▲🌿🖼️ 👮‍♂️ <br>
-All setup in one express server ready for development. All the service offer a free tier so you can build and scale as you go and only what you need
+All setup in one express server ready for development. <br>All the service offer a free tier so you can build and scale as you go and only what you need
 </p>
 
 ## Now.sh
