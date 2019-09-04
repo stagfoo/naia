@@ -11,7 +11,7 @@ All setup in one express server ready for development. <br>All the service offer
 this is a free lamda hosting server, configurable with the now.json file.
 Read more in the wiki.
 
-__now.sh will require your env setup in now.json__
+`now.sh will require your env setup in now.json`
 
 ## Atlas
 this is a free mongo database hosting server.
