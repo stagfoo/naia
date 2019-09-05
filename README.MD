@@ -9,7 +9,8 @@ All setup in one express server ready for development. <br>All the service offer
 
 ## Now.sh
 this is a free lamda hosting server, configurable with the now.json file.
-Read more in the wiki.
+
+[Read more in the wiki.](https://github.com/stagfoo/naia/wiki)
 
 `now.sh will require your env setup in now.json`
 `local will require your env setup in .env`
@@ -17,12 +18,15 @@ Read more in the wiki.
 
 ## Atlas
 this is a free mongo database hosting server.
-Read more in the wiki.
+
+[Read more in the wiki.](https://github.com/stagfoo/naia/wiki)
 
 ## Imgur
 this is a popular image hosting website with a free api. the api allows you to create albums and store images easily and all images are hidden by default.
-Read more in the wiki.
+
+[Read more in the wiki.](https://github.com/stagfoo/naia/wiki)
 
 ## Auth0
 this is a free idenity management service, you can store user information and add extra app related information as well.
-Read more in the wiki.
+
+[Read more in the wiki.](https://github.com/stagfoo/naia/wiki)
