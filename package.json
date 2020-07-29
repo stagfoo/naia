@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/stagfoo/naia#readme",
   "dependencies": {
-    "auth0": "^2.19.0",
+    "auth0": "^2.27.1",
     "auth0-js": "^9.11.3",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
